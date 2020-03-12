@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Attendance</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_Password">Password</string>
+    <string name="hint_roll">Roll</string>
+    <string name="but_login">LogIN</string>
+    <string name="but_registration">SignUP</string>
+    
 </resources>
